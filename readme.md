@@ -1,0 +1,1 @@
+I use obsidian for my .md files, better readme coming later
