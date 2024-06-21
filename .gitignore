@@ -1,3 +1,5 @@
 .obsidian/
 .venv/
 Dataset/render_output/
+Dataset/Test/
+Dataset/Train/
